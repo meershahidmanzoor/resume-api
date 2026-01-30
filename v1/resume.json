@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Shahid Manzoor",
-    "designation": Developer",
+    "designation": "Developer",
     "phone": "+91 7006843435",
     "email": "meershahid543210@gmail.com",
     "location": {
@@ -29,7 +29,7 @@
         "Tech: Java, Spring Boot, React.js, Flask API, PostgreSQL",
         "Practices: SDLC, debugging, deployment, CI/CD, reactive programming, logging and monitoring"
       ],
-      "isCurrent":false
+      "isCurrent":true
     },
     {
       "company": "GalaxE Solutions (an Endava Company)",
