@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Shahid Manzoor",
+    "designation": Developer",
+    "phone": "+91 7006843435",
+    "email": "meershahid543210@gmail.com",
+    "location": {
+      "city": "Bangalore",
+      "region": "Karnataka",
+      "postalCode": "560066",
+      "country": "India"
+    },
+    "profiles": {
+      "linkedin": "https://www.linkedin.com/in/shahid-manzoor-meer-648664228/",
+      "github": "https://github.com/meershahidmanzoor",
+      "leetcode": "https://leetcode.com/u/Shahid_Manzoor/"
+    }
+  },
+  "summary": "Full stack developer with experience in Java Spring Boot, React.js, Flask API, PostgreSQL, Redis, SDLC, debugging, CI/CD, reactive programming, logging and monitoring; currently working in healthcare domain.",
+  "work": [
+    {
+      "company": "Endava India",
+      "position": "Developer",
+      "startDate": "2025-01",
+      "endDate": null,
+      "location": "India",
+      "highlights": [
+        "Working in healthcare domain as a full stack developer",
+        "Tech: Java, Spring Boot, React.js, Flask API, PostgreSQL",
+        "Practices: SDLC, debugging, deployment, CI/CD, reactive programming, logging and monitoring"
+      ],
+      "isCurrent":false
+    },
+    {
+      "company": "GalaxE Solutions (an Endava Company)",
+      "position": "Associate Developer",
+      "startDate": "2024-08",
+      "endDate": "2025-12",
+      "location": "Bangalore, India",
+      "projects": [
+        {
+          "name": "Employee Talent Sphere",
+          "stack": ["Spring Boot", "React.js", "PostgreSQL"],
+          "highlights": [
+            "Built internal HR platform for managing employees, education, certifications, roadmaps, trainings, experience and skills",
+            "Designed dynamic forms, quizzes, and collaboration modules for supervisors and employees",
+            "Implemented role-based access, impersonation, and secure API integrations",
+            "Developed dashboards for visualizing skills, projects, and utilization",
+            "Built resume generator leveraging employee data for automated CV creation"
+          ]
+        },
+        {
+          "name": "Health Service Provider App",
+          "stack": ["Spring Boot", "React.js", "Redis", "SQL", "Microservices (Beginner)"],
+          "highlights": [
+            "Developed healthcare system for patients, doctors, and labs",
+            "Implemented appointments, reports, and feedback modules with secure REST APIs",
+            "Used Redis caching and Spring Cloud components for performance and scalability",
+            "Integrated notifications and reminders; improved UI responsiveness",
+            "Improved test coverage (JUnit, Mockito) and monitoring for production stability"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "GalaxE Solutions",
+      "position": "Software Engineer Intern",
+      "startDate": "2024-02",
+      "endDate": "2024-04",
+      "location": "Bangalore, India",
+      "projects": [
+        {
+          "name": "Gx Launchpad Web Application",
+          "stack": ["HTML", "CSS", "JavaScript"],
+          "highlights": [
+            "Built web app with authentication and quizzes"
+          ]
+        },
+        {
+          "name": "Food Delivery CLI",
+          "stack": ["Java", "OOP", "Multithreading"],
+          "highlights": [
+            "Built CLI application using OOP and multithreading concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Persistent Systems",
+      "position": "Martian Summer Intern",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "location": "Virtual, India",
+      "highlights": [
+        "Trained in Core Java, OS, DSA, and DBMS; practiced SQL and design concepts"
+      ]
+    },
+    {
+      "company": "Oasis Infobyte",
+      "position": "Android Developer Intern",
+      "startDate": "2022-11",
+      "endDate": "2022-12",
+      "location": "Virtual, India",
+      "highlights": [
+        "Built Android apps (Unit Converter, To-Do List) using Java & SQLite"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Walchand Institute of Technology",
+      "area": "Computer Science Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2021",
+      "endDate": "2024",
+      "location": "Solapur, India",
+      "score": {
+        "cgpa": 9.69,
+        "percentage": 86.22
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": "Women’s Safety Android Application – SafeStree",
+      "stack": ["Java", "SQLite", "APIs", "Google Maps API", "Android Studio", "Firebase"],
+      "highlights": [
+        "Developed SOS alerts (Call/SMS/Location) and motion-triggered notifications",
+        "Integrated Firebase and Google Maps API",
+        "Built secure offline data storage"
+      ]
+    }
+  ],
+  "skills": {
+    "programmingLanguages": ["Java (Core & Advanced)", "Python (Basics)", "SQL"],
+    "dsa": ["Arrays", "Stack", "Queue", "LinkedList", "Trees", "Graphs", "DP", "Maps", "Searching", "Sorting"],
+    "backend": ["Spring Boot", "Spring MVC", "REST API", "JPA", "Servlets", "JSP", "Redis (Caching)", "Microservices (Beginner)", "Flask API"],
+    "frontend": ["HTML", "CSS", "Bootstrap", "JavaScript", "React.js"],
+    "databases": ["MS SQL", "SQLite", "PostgreSQL"],
+    "devopsCloud": ["Deployment practices", "Git", "GitHub", "AWS EC2 (Beginner)", "Jenkins (Basics)"],
+    "concepts": ["Operating Systems", "Software Engineering", "Multithreading", "Java 8"]
+  },
+  "achievements": [
+    "Golden Badge – Problem Solving (HackerRank)",
+    "1st Place – Engineers Day Aptitude Competition",
+    "University Article Writing"
+  ],
+  "certifications": ["Java", "Python", "SQL", "Problem Solving (HackerRank)"],
+  "softSkills": ["Communication", "Public speaking", "Team management", "Team leading", "Quick learner", "Adaptability"]
+}
